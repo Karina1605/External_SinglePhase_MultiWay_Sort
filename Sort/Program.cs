@@ -18,5 +18,7 @@ namespace Sort
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+        public static string ext = ".bin";
     }
+
 }
